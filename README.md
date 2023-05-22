@@ -13,3 +13,8 @@
 <li><p>Docker (Just started) started a month ago. I know how to containerize most applications and fully deploy and run applications</p></li>
 <li><p>Flask Framework (main web framework) started a few years back. I currently know how to build full backends with APIs and can work with sessions and blueprints</p></li>
 </ul>
+
+<h2 style="text-align: left">Current Projects</h2>
+<ul>
+<li><p>Reconsleuth, OSINT lookup website/API providing free/paid lookups and can gather anything in the public domain stack: (Flask, Docker, Azure, MongoDB), design patterns: (Factory, Singleton, Abstract Factory, Strategy), Architecure: (DDD, repo pattern, partly implement event driven) </p></li>
+</ul>
