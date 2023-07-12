@@ -1,20 +1,13 @@
-<h1 style="text-align: center">Hello There</h1>
+# Hello There
 
-<h2 style="text-align: left">About Me</h2>
-<ul>
-<li><p>My alias is phish, I'm a 16 year old from England</p></li>
-<li><p>I am currently Learning different architecure patterns with python</p></li>
-</ul>
+## About Me
+- My alias is phish, I'm a 16 year old from England
+- If you need to contact me hmu phishontop42@gmail.com
 
-<h2 style="text-align: left">Skills</h2>
-<ul>
-<li><p>Python (my main language) started when i was 12. I know most internals, design patterns and Architecture patterns</p></li>
-<li><p>MongoDB (my main database) started a few years back. I currently know how to do CRUD tasks and various other tasks with a database</p></li>
-<li><p>Docker (Just started) started a month ago. I know how to containerize most applications and fully deploy and run applications</p></li>
-<li><p>Flask Framework (main web framework) started a few years back. I currently know how to build full backends with APIs and can work with sessions and blueprints</p></li>
-</ul>
+## Skills
+- I can work with layered software architecture including N-Tier, I also know how to implement DDD, repository patterns and UOWs.
+- My main language is python, I have been working with python for 4 years; I have also started learning golang.
+- I know multiple design patterns for example the strategy pattern and the abstract factory pattern.
 
-<h2 style="text-align: left">Current Projects</h2>
-<ul>
-<li><p>Reconsleuth, OSINT lookup website/API providing free/paid lookups and can gather anything in the public domain stack: (Flask, Docker, Azure, MongoDB), design patterns: (Factory, Singleton, Abstract Factory, Strategy), Architecure: (DDD, repo pattern, partly implement event driven) </p></li>
-</ul>
+## Current Projects
+- [Pysharper](https://github.com/phishontop/pysharper) Open source refactoring tool used to make python code faster and more readable
